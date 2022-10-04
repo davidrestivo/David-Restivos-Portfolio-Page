@@ -147,11 +147,12 @@ text-align: center;
 
 }
 
+/* resized the image to look less skewed */
 .image-padding-work {
   position:relative;
   margin-top: 25px;
   width: 380%;
-  height: 53%;
+  height: 56%;
   margin-left: 35px;
   border: 4px solid var(--light);
 
