@@ -1,4 +1,4 @@
-# David-Restivo's-Portfolio
+# David-Restivos-Portfolio
 
 ## Description
 This project, we built our own Portfolio webpage, using all the attributes we have learned so far. This includes using Flexbox, linking images and Responsive sizing.
@@ -17,4 +17,6 @@ https://davidrestivo.github.io/My-Porfolio/
 
 
 ## Screenshot
+
+![Screenshot of homework webpage](./assets/images/davids profile page screen capture.png)
 
