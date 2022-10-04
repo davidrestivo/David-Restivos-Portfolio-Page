@@ -5,7 +5,7 @@ This project, we built our own Portfolio webpage, using all the attributes we ha
 
 ## Links
 
-https://davidrestivo.github.io/Horiseon-code-refactor/
+https://davidrestivo.github.io/David-Restivos-Portfolio-Page/
 
 
 https://github.com/davidrestivo/My-Porfolio
