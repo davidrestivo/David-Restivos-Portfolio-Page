@@ -18,5 +18,7 @@ https://davidrestivo.github.io/My-Porfolio/
 
 ## Screenshot
 
-![Screenshot](./Assets/images/davids profile page screen capture.png)
+![Screenshot for my homework](./Assets/images/davids-profile-page-screen-capture.png)
+
+
 
