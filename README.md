@@ -8,6 +8,7 @@ This project, we built our own Portfolio webpage, using all the attributes we ha
 https://davidrestivo.github.io/David-Restivos-Portfolio-Page/
 
 
-https://github.com/davidrestivo/My-Porfolio
+https://github.com/davidrestivo/David-Restivos-Portfolio-Page
 
 ## Screenshot
+
