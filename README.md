@@ -10,9 +10,9 @@ https://davidrestivo.github.io/David-Restivos-Portfolio-Page/
 
 https://github.com/davidrestivo/David-Restivos-Portfolio-Page
 
+## the below link is the old named project file with the many of my commits.
+https://github.com/davidrestivo/My-Porfolio
 
-https://davidrestivo.github.io/My-Porfolio/
-## this link is the old named project file with the majority of my commits.
 
 
 
