@@ -13,7 +13,8 @@ https://github.com/davidrestivo/David-Restivos-Portfolio-Page
 ## the below link is the old named project file with the many of my commits.
 https://github.com/davidrestivo/My-Porfolio
 
-
+## Credit
+I used the Columbia University Bootcamp reset.css in this project
 
 
 ## Screenshot

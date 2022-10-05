@@ -5,22 +5,24 @@
     <meta charset="UTF-8">
     <!-- changed the pages title -->
     <title>David Restivo's Portfolio</title>
+    <link rel="stylesheet" href="./Assets/css/reset.css">
     <link rel="stylesheet" href="./Assets/css/style.css">
 </head>
 
 <!-- added this code to my repository as starter code-->
 <!-- changed nav link names -->
 <!-- Working on the header alignment and coloring -->
+<!-- changed all the single iterations of elements to ids instead of classes and  cleaned up html formatting -->
 <body>
     <header>
         <h1 id="heading">David Restivo</h1> 
         <nav>         
-            <ul class="top-nav"></ul>
+            <ul id="top-nav"></ul>
                 <li class="nav-links">
                     <a  href="#about-me">About Me</a>
                 </li>
                 <li class="nav-links">
-                    <a href="#work" target="_blank" rel="noreferrer noopener">Work</a>
+                    <a href="#work">Work</a>
                 </li>
                 <li class="nav-links">
                     <a href="#contact-me">Contact Me</a>
@@ -38,22 +40,22 @@
     <section class="image-padding">
 
             <img class="image-padding" src="./Assets/images/Hex-Cool 1.jpg" height="300" alt="cool background"/>
-                <h1 class="header">My Porfolio</h1>
+            <h1 id="headertext">My Porfolio</h1>
     </section>
 
 
     
 <!-- adding the sections for the links -->
-    <section class="cat-section-align">
+    <section id="cat-section-align">
         <article id="about-me" class="positioning-lft-all">
-            <h2 class="h2-all">About<br>Me</h2>
+            <h2 id="h2-all">About<br>Me</h2>
         </article>
-        <article class="paragraph-alignment">
+        <article id="paragraph-alignment">
             <p>
                 I am a native Texan living in NY for 22 years. I am semi-professional violinist and work as a programmer for an automation company in NYC.
                 <br>
                 <br>
-                I have played violin for 38 years. I mostly play orchestral music and chamber music. I also am on the board of several musical groups in Westchester County NY.
+                I have played violin for 38 years. I mostly play orchestral music and chamber music. I also am on the board of several musical groups in Westchester County, NY.
                 <br>   
                 <br> 
                 My plans for my future are to continue to work as a programmer and learn more of the field, in order to make myself more marketable.
@@ -65,47 +67,47 @@
 
 
 
-    <section class="cat-section-work">
+    <section id="cat-section-work">
         <article id="work" class="positioning-lft-all">
-            <h2 class="h2-work">Work</h2>
+            <h2 id="h2-work">Work</h2>
         </article>
         
         <aside>
             <a href="https://davidrestivo.github.io/Horiseon-code-refactor/" target="_blank" rel="noreferrer noopener">
-            <img class="image-padding-work" src="./Assets/images/digital-marketing-meeting.jpg" height="450" alt="horisen Project"></a>
+            <img id="image-padding-work" src="./Assets/images/digital-marketing-meeting.jpg" height="450" alt="horisen Project"></a>
             <container>
-                <h1 class="tag-work"> First Project</h1>
-                <h4 class="sub-text-tag">MERN Stack</h4>
+                <h1 id="tag-work"> First Project</h1>
+                <h4 id="sub-text-tag">MERN Stack</h4>
             </container>
         </aside>
         <!-- added all the subtext to the images -->
-        <container class="top-boxes">
+        <container id="top-boxes">
             <aside>
-                <img class="image-padding-led-top-left" src="./Assets/images/LED-Wall.png" height="125" alt="LED Wall"></a>
+                <img id="image-padding-led-top-left" src="./Assets/images/LED-Wall.png" height="125" alt="LED Wall"></a>
                 <container>
-                    <h1 class="tag-small-boxes-top-left"> LED Wall</h1>
-                    <h4 class="sub-text-top-left">Node/loT</h4>
+                    <h1 id="tag-small-boxes-top-left"> LED Wall</h1>
+                    <h4 id="sub-text-top-left">Node/loT</h4>
                 </container>
             </aside>
             <aside>
-                <img class="image-padding-led-top-right" src="./Assets/images/Calculator.png" height="125" alt="Calculator"></a>
+                <img id="image-padding-led-top-right" src="./Assets/images/Calculator.png" height="125" alt="Calculator"></a>
                 <container>
-                    <h1 class="tag-small-boxes-top-right"> Calculator</h1>
-                    <h4 class="sub-text-top-right">React/JavaScript/CSS</h4>
+                    <h1 id="tag-small-boxes-top-right"> Calculator</h1>
+                    <h4 id="sub-text-top-right">React/JavaScript/CSS</h4>
                 </container>                    
             </aside>
             <aside>
-                <img class="image-padding-led-bottom-left" src="./Assets/images/Pastels.png" height="125" alt="Pastels"></a>
+                <img id="image-padding-led-bottom-left" src="./Assets/images/Pastels.png" height="125" alt="Pastels"></a>
                 <container>
-                    <h1 class="tag-small-boxes-bottom-left"> Pastel Puzzels</h1>
-                    <h4 class="sub-text-bottom-left">MERN Stack</h4>
+                    <h1 id="tag-small-boxes-bottom-left"> Pastel Puzzels</h1>
+                    <h4 id="sub-text-bottom-left">MERN Stack</h4>
                 </container>
             </aside>
             <aside>
-                <img class="image-padding-led-bottom-right" src="./Assets/images/landscape.png" height="125" alt="Pastels"></a>
+                <img id="image-padding-led-bottom-right" src="./Assets/images/landscape.png" height="125" alt="Pastels"></a>
                 <container>
-                    <h1 class="tag-small-boxes-bottom-right"> Run Buddy</h1>
-                    <h4 class="sub-text-bottom-right">HTML/CSS</h4>
+                    <h1 id="tag-small-boxes-bottom-right"> Run Buddy</h1>
+                    <h4 id="sub-text-bottom-right">HTML/CSS</h4>
                 </container>
             </aside>
         </container>    
