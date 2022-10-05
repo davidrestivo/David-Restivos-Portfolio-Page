@@ -332,7 +332,7 @@ text-align: center;
 
 
 /* adding formatting to the contact sect */
-.h2-contact {
+#h2-contact {
   object-position: right;
   border-right: 2px solid var(--dark);
   color: var(--dark);
@@ -346,7 +346,7 @@ text-align: center;
 
 }
 
-.contact-alignment {
+#contact-alignment {
   display: flex;
   margin-top: 25px;
   justify-content: space-between;
@@ -394,27 +394,27 @@ article ul li a {
 
   }
 
-.image-padding {
+#image-padding {
   height: 200px;
   
   }
 
 
-.image-padding-work {
+#image-padding-work {
   position:relative;
   width: 200%;
   height: 40%;
  
   }
 
-.image-padding-led-top-left {
+#image-padding-led-top-left {
   position: relative;
   width: 100%;  
   margin-top: 350px;
 
   } 
 
-.image-padding-led-top-right {
+#image-padding-led-top-right {
   position: relative;
   width: 100%;
   margin-top: 350px;
@@ -422,18 +422,18 @@ article ul li a {
 
   }
 
-.tag-small-boxes-top-right {
+#tag-small-boxes-top-right {
   left: -300%;
 
   }
 
-.sub-text-top-right {
+#sub-text-top-right {
   position: relative;
   font-size: 10px;
   margin-left: -639px;
 }
 
-.image-padding-led-bottom-left {
+#image-padding-led-bottom-left {
   width: 100%;
   margin-top: 480px;
   margin-left: -501%;
@@ -442,7 +442,7 @@ article ul li a {
 
   
 
-.image-padding-led-bottom-right {
+#image-padding-led-bottom-right {
   position: relative;
   width: 100%;
   margin-top: 480px;
@@ -450,12 +450,12 @@ article ul li a {
 
   }
 
-.tag-small-boxes-bottom-right {
+#tag-small-boxes-bottom-right {
   left: -500%;
 
   }
 
-  .sub-text-bottom-right {
+#sub-text-bottom-right {
     margin-left: -1078px;
     
   }
