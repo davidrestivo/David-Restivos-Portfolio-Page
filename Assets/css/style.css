@@ -6,6 +6,7 @@
   }
 /* added variables for all the colors */
 /* changed all the single iterations of elements to ids instead of classes and  cleaned up CSS */
+/* fixed page opening for work tab */
 * {
   box-sizing: border-box;
   padding: 0;
