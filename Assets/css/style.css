@@ -36,7 +36,7 @@ header {
   
 }
 
-#heading{
+#heading {
   padding-right: 10px;
   padding-left: 10px;
   display: inline-block;
@@ -47,6 +47,10 @@ header {
   background-color: var(--light);
   color:#2f3132;
   
+}
+
+#image-padding-profile {
+  border: 2px solid var(--light); 
 }
 
 .nav-links {
@@ -392,6 +396,13 @@ article ul li a {
   padding-right: 10px; 
   font-size: 14px;
 
+  }
+
+  #heading {
+    font-size: 25px;
+    height: 45px;
+    width: 200px;
+    padding-right: 20px;
   }
 
 #image-padding {
