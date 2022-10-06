@@ -124,12 +124,13 @@ text-align: center;
   height: 150px;
 
 }
-
+/* added justification to the paragraph text */
 #paragraph-alignment {
   font-size: 15px;
   padding-left: 30px;
   display:inline;
-  width: 52%;
+  text-align: justify;
+  width: 54%;
   margin-top: 25px;
        
 }
