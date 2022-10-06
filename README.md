@@ -19,7 +19,7 @@ I used the Columbia University Bootcamp reset.css in this project
 
 ## Screenshot
 
-![Screenshot for my homework](./Assets/images/davids-profile-page-screen-capture.pdf)
+![Screenshot for my homework](./Assets/images/davids-profile-page-screen-capture.png)
 
 
 
